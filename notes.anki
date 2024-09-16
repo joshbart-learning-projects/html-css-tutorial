@@ -1,0 +1,27 @@
+The {{<html>}} element is also known as the root element.
+
+The {{<html>}} element supports accessibility features and versioning specifications.
+
+To specify for screen readers that English should be used, the {{<html lang="en">}} tag should be used.
+
+The {{<head>}} and {{<body>}} elements are the only allowed children of the <html> element.
+
+Website metadata is provided under the {{<head>}} element.
+
+Website content can be found under the {{<body>}} element.
+
+A website is allowed to only have one element each of the following: {{<html>}}, {{<head>}}, {{<body>}}, and {{<title>}}.
+
+The {{<title>}} element defines what is shown in a browser's page tab.
+
+For the best SEO optimization, the <title> element should have {{two or more}} descriptive words and be less than {{55}} characters long.
+
+For the best accessibility support, the <title> element should list the {{page title or content description}} before the {{website title}}.
+
+Content headers can be specified using the {{<h1>}} to {{<h6>}} elements.
+
+The {{<p>}} element represents a paragraph of content.
+
+The {{<a href>}} element defines a link to another webpage, email, telephone number, or downloadable content.
+
+The {{<a href>}} element contains a number of different attributes which can open new tabs or help with accessibility.
