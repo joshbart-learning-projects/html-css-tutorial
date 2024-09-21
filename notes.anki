@@ -25,3 +25,15 @@ The {{<p>}} element represents a paragraph of content.
 The {{<a href>}} element defines a link to another webpage, email, telephone number, or downloadable content.
 
 The {{<a href>}} element contains a number of different attributes which can open new tabs or help with accessibility.
+
+The {{<small>}} element is best used for copyright and legal text.
+
+The {{<strong>}} element is used to denote information with special significance or importance.
+
+A common example of a use for the {{<strong>}} element is warnings.
+
+Information requiring special emphasis should use the {{<em>}} element.
+
+Information with special relevance should be designated with the {{<mark>}} element.
+
+Terms, keywords, or product names are common examples of content that should be enclosed in a {{<b>}} element.
