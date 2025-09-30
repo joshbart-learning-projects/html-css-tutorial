@@ -37,3 +37,12 @@ Information requiring special emphasis should use the {{<em>}} element.
 Information with special relevance should be designated with the {{<mark>}} element.
 
 Terms, keywords, or product names are common examples of content that should be enclosed in a {{<b>}} element.
+
+The {{<strong>}}, {{<mark>}}, and {{<b>}} element tags are all closely related and tend to be rendered as bold text.
+
+The {{<em>}}, {{<cite>}}, and {{<i>}} element tags are all closely related and tend to be rendered as italic text.
+
+Stressed words should be enclosed in the {{<em>}} tag, whereas foreign words or the thoughts of fictional characters should be enclosed in the {{<i>}} tag.
+
+The titles of books or other works should be enclosed in the {{<cite>}} element.
+
